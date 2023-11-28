@@ -26,10 +26,7 @@ setTimeout(() => {
       setTimeout(() => {
         console.log("Hi");
         setTimeout(() => {
-          console.log("Salam");
-          setTimeout(() => {
-            console.log("Bonjour");
-          }, 2000);
+          console.log("Bonjour");
         }, 2000);
       }, 2000);
     }, 2000);
